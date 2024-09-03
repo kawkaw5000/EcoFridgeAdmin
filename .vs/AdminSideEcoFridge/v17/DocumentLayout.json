@@ -1,58 +1,100 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!!!-A-BACKUP\\testd\\",
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\rolesindbauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\rolesindbauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\views\\shared\\_edituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\shared\\_edituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\models\\vwusersroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\vwusersroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\models\\vwusersfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\vwusersfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\models\\ecofridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\ecofridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\data\\ecofridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\data\\ecofridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\views\\shared\\_edituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\shared\\_edituserpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\wwwroot\\js\\edituser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\wwwroot\\js\\edituser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\wwwroot\\js\\selectuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\wwwroot\\js\\selectuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\AppData\\Local\\SourceServer\\50173216a69f1b21499dcdd3172f6830c9a2d87f3df46cfcb0710879a641c6dd\\AdminSideEcoFridge\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\wwwroot\\js\\editfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\wwwroot\\js\\editfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|d:\\!!!-a-backup\\testd\\adminsideecofridge\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\models\\vwusersfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\vwusersfooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\wwwroot\\js\\ajaxedit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\wwwroot\\js\\ajaxedit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\models\\custommodels\\customusermodelforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\custommodels\\customusermodelforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HOME\\AppData\\Local\\SourceServer\\34bac923a5b31ac6ddee9b51e49190254af4a51066f8970a8e5be4203567c6fd\\AdminSideEcoFridge\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\models\\vwusersroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\models\\vwusersroleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\areas\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|c:\\users\\home\\documents\\github\\testd\\adminsideecofridge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D3F67EED-7141-4E85-A89F-CDB49F9CE87D}|AdminSideEcoFridge\\AdminSideEcoFridge.csproj|solutionrelative:adminsideecofridge\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,106 +104,262 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\UserRole.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\UserRole.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Models\\UserRole.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:59:58.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
-              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T16:59:08.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwCcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:57:38.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VwUsersFoodItem.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:56:03.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VwUsersRoleView.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:56:01.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_EditUserPartialView.cshtml",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml",
               "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml*",
-              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml",
+              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Shared\\_EditUserPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-03T16:50:24.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "edituser.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
+              "RelativeToolTip": "AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T18:01:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VwUsersFoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Models\\VwUsersFoodItem.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAewDsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:56:42.795Z",
+              "WhenOpened": "2024-09-03T16:56:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "selectuser.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
+              "RelativeToolTip": "AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T18:00:50.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowHYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:17:00.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcoFridgeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\EcoFridgeDbContext.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\EcoFridgeDbContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\EcoFridgeDbContext.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Models\\EcoFridgeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:11:58.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesInDBAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\RolesInDBAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\RolesInDBAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\RolesInDBAuthorizationHandler.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\RolesInDBAuthorizationHandler.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:17:26.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Program.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Program.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:15:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:57:38.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAAAPkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T16:59:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAIA3wEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:24:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T16:50:07.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "editfood.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
+              "RelativeToolTip": "AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T18:06:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\AppData\\Local\\SourceServer\\50173216a69f1b21499dcdd3172f6830c9a2d87f3df46cfcb0710879a641c6dd\\AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\50173216a69f1b21499dcdd3172f6830c9a2d87f3df46cfcb0710879a641c6dd\\AdminSideEcoFridge\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HOME\\AppData\\Local\\SourceServer\\50173216a69f1b21499dcdd3172f6830c9a2d87f3df46cfcb0710879a641c6dd\\AdminSideEcoFridge\\Controllers\\AccountController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\50173216a69f1b21499dcdd3172f6830c9a2d87f3df46cfcb0710879a641c6dd\\AdminSideEcoFridge\\Controllers\\AccountController.cs [Read Only]",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:58:24.136Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:20:23.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ajaxedit.js",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
+              "RelativeToolTip": "AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T17:39:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomUserModelForLogIn.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Models\\CustomModels\\CustomUserModelForLogIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:24:10.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T17:28:29.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\AppData\\Local\\SourceServer\\34bac923a5b31ac6ddee9b51e49190254af4a51066f8970a8e5be4203567c6fd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\34bac923a5b31ac6ddee9b51e49190254af4a51066f8970a8e5be4203567c6fd\\AdminSideEcoFridge\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HOME\\AppData\\Local\\SourceServer\\34bac923a5b31ac6ddee9b51e49190254af4a51066f8970a8e5be4203567c6fd\\AdminSideEcoFridge\\Controllers\\HomeController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\34bac923a5b31ac6ddee9b51e49190254af4a51066f8970a8e5be4203567c6fd\\AdminSideEcoFridge\\Controllers\\HomeController.cs [Read Only]",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwBwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:54:31.904Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
               "RelativeDocumentMoniker": "AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
               "RelativeToolTip": "AdminSideEcoFridge\\Contracts\\IBaseRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,67 +368,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Controllers\\BaseController.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Controllers\\BaseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Areas\\Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:20:23.404Z",
+              "WhenOpened": "2024-09-03T16:56:42.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "AdminSideEcoFridge\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T16:50:07.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EcoFridgeDbContext.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Data\\EcoFridgeDbContext.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Data\\EcoFridgeDbContext.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Data\\EcoFridgeDbContext.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Data\\EcoFridgeDbContext.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "VwUsersRoleView.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Models\\VwUsersRoleView.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:18:24.261Z",
+              "WhenOpened": "2024-09-03T16:56:01.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\Models\\UserRole.cs",
+              "RelativeToolTip": "AdminSideEcoFridge\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:59:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AdminSideEcoFridge\\ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\HOME\\Documents\\GitHub\\testd\\AdminSideEcoFridge\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "AdminSideEcoFridge\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-09-03T11:39:17.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "AdminSideEcoFridge\\Repository\\BaseRepository.cs",
-              "ToolTip": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "AdminSideEcoFridge\\Repository\\BaseRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T11:24:42.134Z",
               "EditorCaption": ""
             }
           ]

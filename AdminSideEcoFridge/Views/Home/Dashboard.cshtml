@@ -1,6 +1,10 @@
 ﻿@model IEnumerable<AdminSideEcoFridge.Models.User>
+
+@{
     ViewData["Title"] = "Home Page";
 }
+
+
 <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
 <link href="~/css/user-profiles.css" rel="stylesheet" />
 <link href="~/css/welcome-admin.css" rel="stylesheet" />
@@ -113,7 +117,7 @@
                                         </button>
                                         <div class="dropdown-content">
                                             
-                                            <button class="dropdown-item" data-users-id="@user.UserId">Edit</button>
+                                            <a class="dropdown-item" data-users-id="@user.UserId" href="#">Edit</a>
                                             <button class="dropdown-item" >Delete</button>
                                         </div>
                                     </div>
@@ -490,12 +494,12 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 
-<script src="~/js/ajaxedit.js"></script>
-
+@* <script src="~/js/ajaxedit.js"></script> *@
 
 <script src="~/js/selectuser.js"></script>
 <script src="~/js/modal.js"></script>
 <script src="~/js/approvemodal.js"></script>
 <script src="~/js/foodlist.js"></script>
+<script src="~/js/edituser.js"></script>
 <script src="~/js/editfood.js"></script>
 

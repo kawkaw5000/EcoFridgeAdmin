@@ -34,7 +34,6 @@ function hideAllContainers() {
     document.querySelector('.edit-food-user-container').style.display = 'none';
 
 }
-
 function hideAllOtherContainers() {
     document.querySelector('.selected-profile-container').style.display = 'none';
     document.querySelector('.edit-profile-container').style.display = 'none';
@@ -42,8 +41,6 @@ function hideAllOtherContainers() {
     document.querySelector('.edit-org-user-container').style.display = 'none';
     document.querySelector('.select-food-user-container').style.display = 'none';
     document.querySelector('.edit-food-user-container').style.display = 'none';
-
-
 }
 
 function showUserDetails(row) {

@@ -3,9 +3,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AdminSideEcoFridge.Contracts;
-using AdminSideEcoFridge.Data;
 using Microsoft.EntityFrameworkCore;
 using AdminSideEcoFridge.Utils;
+using AdminSideEcoFridge.Models;
 
 
 namespace AdminSideEcoFridge.Repository

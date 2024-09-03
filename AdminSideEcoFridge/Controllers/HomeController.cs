@@ -6,10 +6,12 @@ using AdminSideEcoFridge.Repository;
 using AdminSideEcoFridge.Utils;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.Blazor;
 using Microsoft.EntityFrameworkCore;
-using AdminSideEcoFridge.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AdminSideEcoFridge.Controllers
 {
+
+    [Authorize(Policy = "AdminPolicy")]
     public class HomeController : BaseController
     {
 
@@ -50,36 +52,7 @@ namespace AdminSideEcoFridge.Controllers
             return Json(user);
         }
 
-        [HttpGet]
-        public IActionResult Edit(int id)
-        {
-            var user = _userRepo.Get(id);
-            if (user == null)
-            {
-                return NotFound(); 
-            }
-            return View(user); 
-        }
-
-        [HttpPost]
-        public IActionResult Edit(User u)
-        {
-            if (!ModelState.IsValid)
-            {
-                return View(u); // Return the same view with user data if not valid
-            }
-
-            var result = _userRepo.Update(u.UserId, u); // Call the update method
-
-            if (result == ErrorCode.Success)
-            {
-                TempData["Msg"] = $"User {u.Username} Updated";
-                return RedirectToAction("Index");
-            }
-
-            ModelState.AddModelError("", "Unable to update user. Please try again.");
-            return View(u); // Return the same view with user data
-        }
+        
 
         #region Admin Create
         public IActionResult AdminCreate()
