@@ -1,435 +1,435 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminSideEcoFridge.bundle.scp.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AdminSideEcoFridge.bundle.scp.css",
       "PackagePath": "staticwebassets\\AdminSideEcoFridge.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\adminCreate.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\adminCreate.css",
       "PackagePath": "staticwebassets\\css\\adminCreate.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\food-business.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\food-business.css",
       "PackagePath": "staticwebassets\\css\\food-business.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\header.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\header.css",
       "PackagePath": "staticwebassets\\css\\header.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\login.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\sidebar.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\sidebar.css",
       "PackagePath": "staticwebassets\\css\\sidebar.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\site.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\user-profiles.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\user-profiles.css",
       "PackagePath": "staticwebassets\\css\\user-profiles.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\css\\welcome-admin.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\css\\welcome-admin.css",
       "PackagePath": "staticwebassets\\css\\welcome-admin.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\favicon.ico",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\Create-icons\\email.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\Create-icons\\email.svg",
       "PackagePath": "staticwebassets\\images\\Create-icons\\email.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\Create-icons\\profile-upload.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\Create-icons\\profile-upload.svg",
       "PackagePath": "staticwebassets\\images\\Create-icons\\profile-upload.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\8666609_user_icon.png",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\8666609_user_icon.png",
       "PackagePath": "staticwebassets\\images\\LoginImg\\8666609_user_icon.png"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\Humba-Img.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\Humba-Img.svg",
       "PackagePath": "staticwebassets\\images\\LoginImg\\Humba-Img.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\eye-close-up-svgrepo-com.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\eye-close-up-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\images\\LoginImg\\eye-close-up-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\eye-password-hide-svgrepo-com.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\eye-password-hide-svgrepo-com.svg",
       "PackagePath": "staticwebassets\\images\\LoginImg\\eye-password-hide-svgrepo-com.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\password-icon.png",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\password-icon.png",
       "PackagePath": "staticwebassets\\images\\LoginImg\\password-icon.png"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\user-icon.png",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\LoginImg\\user-icon.png",
       "PackagePath": "staticwebassets\\images\\LoginImg\\user-icon.png"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\dashboardImg\\AdminImg.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\dashboardImg\\AdminImg.svg",
       "PackagePath": "staticwebassets\\images\\dashboardImg\\AdminImg.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\ProfPic.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\ProfPic.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\ProfPic.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\channel-1.jpeg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\channel-1.jpeg",
       "PackagePath": "staticwebassets\\images\\header-icons\\channel-1.jpeg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\close-btn.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\close-btn.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\close-btn.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\down-arrow-white.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\down-arrow-white.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\down-arrow-white.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\down-arrow.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\down-arrow.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\logout-icon.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\logout-icon.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\logout-icon.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\notification-icon.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\notification-icon.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\notification-icon.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\plus-icon.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\plus-icon.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\plus-icon.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\search-icon.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\search-icon.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\search-icon.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\trash-vec.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\header-icons\\trash-vec.svg",
       "PackagePath": "staticwebassets\\images\\header-icons\\trash-vec.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\ApprovedImg.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\ApprovedImg.svg",
       "PackagePath": "staticwebassets\\images\\org-img\\ApprovedImg.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\codicon_organization.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\codicon_organization.svg",
       "PackagePath": "staticwebassets\\images\\org-img\\codicon_organization.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\org-docx-sample.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\org-docx-sample.svg",
       "PackagePath": "staticwebassets\\images\\org-img\\org-docx-sample.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\org-img-sample.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\org-img-sample.svg",
       "PackagePath": "staticwebassets\\images\\org-img\\org-img-sample.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\up-arrow (1).png",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\org-img\\up-arrow (1).png",
       "PackagePath": "staticwebassets\\images\\org-img\\up-arrow (1).png"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\Eco-logo.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\Eco-logo.svg",
       "PackagePath": "staticwebassets\\images\\sidbar-icons\\Eco-logo.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\home.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\home.svg",
       "PackagePath": "staticwebassets\\images\\sidbar-icons\\home.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\reports.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\reports.svg",
       "PackagePath": "staticwebassets\\images\\sidbar-icons\\reports.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\storage.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\storage.svg",
       "PackagePath": "staticwebassets\\images\\sidbar-icons\\storage.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\subscription.svg",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\images\\sidbar-icons\\subscription.svg",
       "PackagePath": "staticwebassets\\images\\sidbar-icons\\subscription.svg"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\Admin-create.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\Admin-create.js",
       "PackagePath": "staticwebassets\\js\\Admin-create.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\ajaxedit.js",
       "PackagePath": "staticwebassets\\js\\ajaxedit.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\approveModal.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\approveModal.js",
       "PackagePath": "staticwebassets\\js\\approveModal.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\editfood.js",
       "PackagePath": "staticwebassets\\js\\editfood.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\edituser.js",
       "PackagePath": "staticwebassets\\js\\edituser.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\foodlist.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\foodlist.js",
       "PackagePath": "staticwebassets\\js\\foodlist.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\header.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\header.js",
       "PackagePath": "staticwebassets\\js\\header.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\login.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\login.js",
       "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\modal.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\modal.js",
       "PackagePath": "staticwebassets\\js\\modal.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\model-del.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\model-del.js",
       "PackagePath": "staticwebassets\\js\\model-del.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\selectuser.js",
       "PackagePath": "staticwebassets\\js\\selectuser.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\js\\site.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\LEX\\source\\repos\\AdminEcoFridge\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\!!!-A-BACKUP\\testd\\AdminSideEcoFridge\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
