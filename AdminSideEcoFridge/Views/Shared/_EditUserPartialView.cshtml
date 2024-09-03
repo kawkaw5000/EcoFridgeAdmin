@@ -1,0 +1,51 @@
+﻿@model AdminSideEcoFridge.Models.User
+
+<form id="editUserForm" method="post" asp-action="Edit">
+    <div class="user-details-flex">
+        <div class="profile">
+            <img src="@Model.ProfilePicturePath" alt="" class="user-img">
+        </div>
+        <div class="column-user-info">
+            <div class="details-info">First Name</div>
+            <div class="details-info">Last Name</div>
+            <div class="details-info">Gender</div>
+            <div class="details-info">Birth Date</div>
+        </div>
+        <div class="column-user-info">
+            <div class="user-details">
+                <input type="hidden" id="editUserId" name="UserId" value="@Model.UserId" />
+                <input type="text" id="editFirstName" name="FirstName" value="@Model.FirstName">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editLastName" name="LastName" value="@Model.LastName">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editGender" name="Gender" value="@Model.Gender">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editBirthDate" name="BirthDate" value="@Model.Gender">
+            </div>
+            
+        </div>
+    </div>
+    <div class="address-flex-row">
+        <div class="address">Address</div>
+        <div class="column-user-info">
+            <div class="user-details">
+                <input type="text" id="editStreet" name="Street" value="@Model.Street">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editBaranggay" name="Baranggay" value="@Model.Barangay">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editCity" name="City" value="@Model.City">
+            </div>
+            <div class="user-details">
+                <input type="text" id="editProvince" name="Province" value="@Model.Province">
+            </div>
+        </div>
+    </div>
+    <div class="save-edit">
+        <button type="submit" class="save-edit-btn">Save</button>
+    </div>
+</form>

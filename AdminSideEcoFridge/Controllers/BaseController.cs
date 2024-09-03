@@ -1,0 +1,55 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using AdminSideEcoFridge.Repository;
+using AdminSideEcoFridge.Data;
+using Microsoft.EntityFrameworkCore;
+using AdminSideEcoFridge.Models;
+
+namespace AdminSideEcoFridge.Controllers
+{
+    public class BaseController : Controller
+    {
+        public EcoFridgeDbContext _db;
+        public BaseRepository<User> _userRepo;
+        public BaseRepository<Role> _roleRepo;
+        public BaseRepository<DonationTransaction> _donationRepo;
+        public BaseRepository<UserRole> _userRoleRepo;
+        public BaseRepository<UserPlan> _userPlanRepo;
+        public BaseRepository<UserFood> _userFoodRepo;
+        public BaseRepository<StoragePlan> _storagePlanRepo;
+        public BaseRepository<StorageTip> _storageTipRepo;
+        public BaseRepository<StorageTipForFoodCategory> _storageTipForFoodCategoryRepo;
+        public BaseRepository<Food> _foodRepo;
+        public BaseRepository<FoodCategory> _foodCategoryRepo;
+        public BaseRepository<PaymentTransaction> _paymentTransactionRepo;
+        public BaseRepository<FoodIngredient> _foodIngredientRepo;
+        public BaseRepository<Donee> _doneeRepo;
+        public BaseRepository<Donor> _donorRepo;
+        public BaseRepository<VwUsersRoleView> _vwUsersRoleViewRepo;
+        public BaseRepository<VwUsersFoodItem> _vwUsersFoodItemRepo;
+        public BaseController()
+        {    
+            _db = new EcoFridgeDbContext();
+            _userRepo = new BaseRepository<User>();
+            _roleRepo = new BaseRepository<Role>();
+            _donationRepo = new BaseRepository<DonationTransaction>();
+            _userRoleRepo = new BaseRepository<UserRole>();
+            _userPlanRepo = new BaseRepository<UserPlan>();
+            _userFoodRepo = new BaseRepository<UserFood>();
+            _storagePlanRepo = new BaseRepository<StoragePlan>();
+            _storageTipRepo = new BaseRepository<StorageTip>();
+            _storageTipForFoodCategoryRepo = new BaseRepository<StorageTipForFoodCategory>();
+            _foodRepo = new BaseRepository<Food>();
+            _foodCategoryRepo = new BaseRepository<FoodCategory>();
+            _paymentTransactionRepo = new BaseRepository<PaymentTransaction>();
+            _foodIngredientRepo = new BaseRepository<FoodIngredient>();
+            _doneeRepo = new BaseRepository<Donee>();
+            _donorRepo = new BaseRepository<Donor>();
+            _vwUsersRoleViewRepo = new BaseRepository<VwUsersRoleView>();
+            _vwUsersFoodItemRepo = new BaseRepository<VwUsersFoodItem>();
+        }
+    }
+}
